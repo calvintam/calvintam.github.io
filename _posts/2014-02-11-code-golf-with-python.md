@@ -8,6 +8,7 @@ comments: false
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 Recently been practising programming interview questions with Python, which has been a lot more fun than when I was using Java.

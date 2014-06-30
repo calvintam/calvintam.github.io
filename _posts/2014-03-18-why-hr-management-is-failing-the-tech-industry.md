@@ -8,6 +8,7 @@ comments: false
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 In psychology there is a theory called '*critical contacts theory*' (Harn & Thornton; Ralston & Brady, 1994), which suggests that a candidate's assessment of the offer is highly influenced by what happens during the interview process and the actions of those who represent the recruiting party.

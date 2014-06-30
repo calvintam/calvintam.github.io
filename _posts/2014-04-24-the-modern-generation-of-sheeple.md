@@ -8,6 +8,7 @@ image:
     background: witewall_3.png
 comments: false
 share: true
+site_section: Blog
 ---
 
 First let's begin with what is meant by 'sheeple': *people who are unable to think for themselves*.

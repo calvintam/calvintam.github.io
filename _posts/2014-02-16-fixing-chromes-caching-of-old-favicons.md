@@ -8,6 +8,7 @@ comments: false
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 For the past 2-3 days I've been wrangling with updating the favicon for my blog.

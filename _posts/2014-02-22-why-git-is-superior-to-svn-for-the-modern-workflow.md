@@ -8,6 +8,7 @@ comments: false
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 Anyone who deals with legacy codebases (by legacy I mean >5 years) will most likely have to deal with using SVN for version control.

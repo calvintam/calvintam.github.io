@@ -8,6 +8,7 @@ comments: false
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 Agile software development revolves around iterating in short timeframes with **flexibility** in mind.

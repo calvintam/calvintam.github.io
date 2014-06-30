@@ -8,6 +8,7 @@ comments: false
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 Reading the High Scalability blog post - "[_How Google Backs Up The Internet Along With Exabytes Of Other Data_](http://highscalability.com/blog/2014/2/3/how-google-backs-up-the-internet-along-with-exabytes-of-othe.html)" - I came across this simple, somewhat fundamental, trick which were of the many tactics used to ensure no data loss:

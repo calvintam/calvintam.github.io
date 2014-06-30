@@ -11,6 +11,7 @@ image:
   creditlink: 
 comments: false
 share: true
+site_section: Blog
 ---
 
 Turnitin is widely used across many universities as an academic plagiarism checker and has quickly become the primary, rather than secondary, tool to detect plagiarism in assignments.

@@ -9,6 +9,7 @@ feed_url: /feed.xml
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 I've now added a widget on the sidebar that allows you to subscribe to my blog via email!

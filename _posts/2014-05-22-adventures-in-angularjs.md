@@ -12,6 +12,7 @@ image:
 comments: false
 share: true
 angularjs_logo_url: "/images/angularjs-large.png"
+site_section: Blog
 ---
 <figure style="text-align: center;">
   <img src="{{ page.angularjs_logo_url }}" />

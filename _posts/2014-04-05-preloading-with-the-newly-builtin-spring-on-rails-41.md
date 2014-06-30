@@ -8,6 +8,7 @@ comments: false
 image:
   background: witewall_3.png
 share: true
+site_section: Blog
 ---
 
 For a new side project that I have started recently, I decided to move from Rails 3.2 over to Rails 4.1 (rc2 as of today) to see what new features have been put in place.
