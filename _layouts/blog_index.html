@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 	<head>
+    {% include head.html %}
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/base/css/default.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/base/css/component.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/blog_listing/css/default.css" />
@@ -9,13 +10,7 @@
 	</head>
 	<body>
 		<div class="container">
-			<header class="clearfix">
-        <span>{{ site.logo_name }}</span>
-				<h1>Title</h1>
-				<nav>
-					<a href="#" class="icon-arrow-left" data-info="Icon">Icon</a>
-				</nav>
-			</header>	
+      {% include header_panel.html %}
 
       {% include navbar.html %}
 
