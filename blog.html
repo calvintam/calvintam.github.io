@@ -1,0 +1,16 @@
+---
+layout: blog_index
+permalink: /blog/
+title: All Blog Posts
+description: "An archive of blog posts."
+---
+
+{% for post in site.posts %}
+  <ul id="cbp-ntaccordion" class="cbp-ntaccordion">
+    <li>
+      <h3 class="cbp-nttrigger">
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      </h3>
+    </li>
+  </ul>
+{% endfor %}
