@@ -1,6 +1,7 @@
 title:            "Calvin Tam's Blog"
 description:      Stream of thoughts about software engineering, technology and learning in general
 baseurl:          http://www.calvintam.me
+logo_name:        Calvin Tam
 
 # Owner/author information
 owner:
