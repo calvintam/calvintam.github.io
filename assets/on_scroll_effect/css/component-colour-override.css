@@ -1,0 +1,17 @@
+.cbp-hrmenu {
+	border-bottom: 4px solid white;
+}
+
+.cbp-hrmenu > ul > li > a {
+	color: white;
+}
+
+.cbp-hrmenu > ul > li > a:hover {
+	color: #666;
+}
+
+@media screen and (max-width: 43em) { 
+	.cbp-hrmenu > ul > li {
+		border-bottom: 4px solid white;
+	}
+}
