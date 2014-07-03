@@ -43,6 +43,11 @@
 	transition: transform 0.5s, opacity 0.5s;
 }
 
+/* Using enlarged icons instead of images */
+.cbp-so-side > i {
+  font-size: 3000%;
+}
+
 /* Clear floats of children */
 .cbp-so-side:before,
 .cbp-so-side:after {
