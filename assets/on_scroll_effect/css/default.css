@@ -40,41 +40,6 @@ a {
 	text-align: center;
 }
 
-.container > header nav a {
-	display: inline-block;
-	position: relative;
-	text-align: left;
-	width: 2.5em;
-	height: 2.5em;
-	background: #47a3da;
-	border-radius: 50%;
-	margin: 0 0.1em;
-	border: 4px solid #fff;
-}
-
-.container > header nav a > span {
-	display: none;
-}
-
-.container > header nav a:hover:before {
-	content: attr(data-info);
-	color: #fff;
-	position: absolute;
-	width: 600%;
-	top: 120%;
-	text-align: right;
-	right: 0;
-	pointer-events: none;
-}
-
-.container > header nav a:hover {
-	background: #fff;
-}
-
-.container > header nav a:hover:after {
-	color: #47a3da;
-}
-
 @media screen and (max-width: 55em) {
 
 	.container > header h1,
