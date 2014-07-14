@@ -77,6 +77,10 @@
 	-webkit-font-smoothing: antialiased;
 }
 
+.cbp-ig-icon > img {
+  width: 80%;
+}
+
 .cbp-ig-icon-shoe:before {
 	content: "\e000";
 }
