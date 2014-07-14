@@ -69,6 +69,7 @@
 
 .cbp-ig-icon > img {
   width: 80%;
+  border: solid 1px #EEE;
 }
 
 /* title element */
