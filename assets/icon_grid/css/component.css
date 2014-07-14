@@ -63,6 +63,7 @@
 	-webkit-transition: -webkit-transform 0.2s;
 	transition: -moz-transform 0.2s;
 	transition: transform 0.2s;
+  height: 60%;
 }
 
 .cbp-ig-icon:before {
