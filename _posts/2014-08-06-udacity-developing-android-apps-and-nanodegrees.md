@@ -11,6 +11,7 @@ image:
   creditlink: 
 comments: false
 share: true
+site_section: Blog
 ---
 
 ## Developing Android Apps

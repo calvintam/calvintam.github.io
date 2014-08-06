@@ -35,13 +35,9 @@ task :new_post, :title do |t, args|
     post.puts "category: blog"
     post.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
     post.puts "tags: [#{tags}]"
-    post.puts "image:"
-    post.puts "  background: witewall_3.png"
-    post.puts "  feature: "
-    post.puts "  credit: "
-    post.puts "  creditlink: "
     post.puts "comments: false"
     post.puts "share: true"
+    post.puts "site_section: Blog"
     post.puts "---"
   end
 end
@@ -67,13 +63,9 @@ task :new_page, :title do |t, args|
     page.puts "title: \"#{title}\""
     page.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     page.puts "tags: [#{tags}]"
-    page.puts "image:"
-    page.puts "  background: witewall_3.png"
-    page.puts "  feature: "
-    page.puts "  credit: "
-    page.puts "  creditlink: "
     page.puts "comments: false"
-    page.puts "share: "
+    page.puts "share: false"
+    post.puts "site_section:"
     page.puts "---"
   end
 end
