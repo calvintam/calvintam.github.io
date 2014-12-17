@@ -130,6 +130,7 @@
 	.cbp-so-side {
 		float: none;
 		width: 100%;
+    text-align: center;  // on devices with smaller width, centre everything
 	}
 
 	.cbp-so-side img {
