@@ -11,6 +11,10 @@
 }
 
 @media screen and (max-width: 43em) { 
+  .cbp-hrmenu {
+    border: none;  // clear existing border bottom
+  }
+
 	.cbp-hrmenu > ul > li {
 		border-bottom: 4px solid white;
 	}
