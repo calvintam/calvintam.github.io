@@ -72,6 +72,9 @@ a:hover {
 }
 
 @media screen and (max-width: 55em) {
+  .main {
+    padding: 0 0.75em 3.125em 0.75em;
+  }
 
 	.container > header h1,
 	.container > header nav {
