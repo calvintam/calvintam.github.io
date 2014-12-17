@@ -5,7 +5,10 @@ body {
 
 a {
 	color: #f0f0f0;
-	text-decoration: none;
+}
+
+.blog-link {
+  text-decoration: underline;
 }
 
 .container > header > span span:after {
