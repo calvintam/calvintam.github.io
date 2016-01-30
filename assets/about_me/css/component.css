@@ -1,3 +1,17 @@
+.glass-window {
+  background: black;
+  opacity: 0.5;
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+}
+
+.short-intro {
+  font-size: 36px;
+  color: white;
+  padding: 20px 30px;
+}
+
 .cbp-so-scroller {
 	margin-top: 3em;
 	overflow: hidden;
@@ -124,6 +138,16 @@
 	.cbp-so-side img {
 		max-width: 120%;
 	}
+
+  .glass-window {
+    left: 0;
+    width: 100%;
+  }
+
+  .short-intro {
+    font-size: 1.5em;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 41.125em) {

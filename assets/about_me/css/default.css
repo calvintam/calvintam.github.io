@@ -1,6 +1,7 @@
 body {
     color: #fff;
-    background: #47a3da;
+    background: url(/assets/common/img/calvin_bright_dash_action.jpg) no-repeat center center fixed; 
+    background-size: cover;
 }
 
 a {
