@@ -8,6 +8,10 @@ body {
   font-size: 64px;
 }
 
+.short-intro {
+  font-size: 32px;
+}
+
 .social-media-link {
   color: midnightblue;
   text-decoration: none;
