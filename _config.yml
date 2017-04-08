@@ -10,11 +10,9 @@ owner:
     bio:        "Software engineer from Sydney, Australia"
     # Social networking links used in footer. Update and remove as you like.
     email:      calvintamblog+official@gmail.com
-    twitter:  calvinyhtam
     github: calvintam        
+    instagram: calvinyhtam
     linkedin: calvinyhtam
-    # For Google Authorship https://plus.google.com/authorship
-    google_plus: 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:  
