@@ -3,3 +3,7 @@ body {
   background-size: cover;
   font-family: 'Oswald', sans-serif;
 }
+
+.app-title {
+  font-size: 64px;
+}
