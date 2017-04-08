@@ -1,5 +1,10 @@
-# Calvin Tam's Personal Blog
+# Calvin Tam's Personal Website 
 
-This is my personal blog.
+This is my personal website.
 
-Calvin Tam, 2014.
+To run the development server:
+```
+jekyll serve -w --baseurl=
+```
+
+Calvin Tam.
