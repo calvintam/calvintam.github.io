@@ -1,0 +1,57 @@
+body {
+  background: url(/assets/calvin_about_me_background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Oswald', sans-serif;
+  margin: 0;
+}
+
+.app {
+  padding: 64px;
+}
+
+.app-title {
+  font-size: 96px;
+  margin-bottom: 0;
+}
+
+.short-intro {
+  font-size: 48px;
+  margin-top: 48px;
+}
+
+.short-intro-section {
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
+
+.social-media-link {
+  color: midnightblue;
+  text-decoration: none;
+}
+
+@media all and (max-width: 640px) {
+  header, .app, .short-intro {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .app {
+    padding: 16px;
+  }
+
+  .app-title {
+    font-size: 72px;
+  }
+
+  .short-intro {
+    margin-top: 16px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .short-intro {
+    font-size: 24px;
+  }
+}
